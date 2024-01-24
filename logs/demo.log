@@ -15,3 +15,34 @@
 [20231221 09:27:02:624][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
 [20231221 09:27:02:624][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
 [20231221 09:27:02:625][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240124 08:09:37:884][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 217096 (C:\techitStudy\springboot\tosspayments\html-java\target\classes started by user in C:\techitStudy\springboot\tosspayments\html-java)
+[20240124 08:09:37:885][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240124 08:09:37:945][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240124 08:09:37:945][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240124 08:09:39:131][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240124 08:09:39:141][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240124 08:09:39:143][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240124 08:09:39:144][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240124 08:09:39:189][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240124 08:09:39:189][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1243 ms
+[20240124 08:09:39:614][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240124 08:09:39:631][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240124 08:09:39:648][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240124 08:09:39:655][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.656 seconds (process running for 3.889)
+[20240124 08:09:47:169][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240124 08:09:47:169][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240124 08:09:47:170][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 1 ms
+[20240124 09:17:24:861][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 173000 (C:\techitStudy\springboot\tosspayments\html-java\target\classes started by user in C:\techitStudy\springboot\tosspayments\html-java)
+[20240124 09:17:24:863][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240124 09:17:24:915][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240124 09:17:24:916][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240124 09:17:25:973][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240124 09:17:25:983][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240124 09:17:25:985][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240124 09:17:25:985][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240124 09:17:26:033][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240124 09:17:26:034][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 1117 ms
+[20240124 09:17:26:418][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240124 09:17:26:433][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240124 09:17:26:449][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240124 09:17:26:456][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 2.266 seconds (process running for 3.197)
